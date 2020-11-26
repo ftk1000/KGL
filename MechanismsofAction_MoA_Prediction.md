@@ -1,4 +1,7 @@
 # https://www.kaggle.com/c/lish-moa/notebooks?competitionId=19988&searchQuery=alexandervc
+
+[MoA: Pytorch-RankGauss-PCA-NN upgrade & 3D visual, AKA PUBLIC BASELINE](https://www.kaggle.com/vbmokin/moa-pytorch-rankgauss-pca-nn-upgrade-3d-visual)<br>
+
 [Sasha's notebooks](https://www.kaggle.com/c/lish-moa/notebooks?competitionId=19988&searchQuery=alexandervc)<br>
 
 [Alexandervc: moa-data-visualization-via-dimensional-reduc](https://www.kaggle.com/alexandervc/moa-data-visualization-via-dimensional-reduct)<br>
