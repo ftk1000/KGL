@@ -22,7 +22,7 @@ MoA Mysterious Patterns for LocallyLinearEmbedding](https://www.kaggle.com/alexa
 []()<br>
 # NN for MoA<br>
 ==> from tensorflow.keras.utils import plot_model<br>
-[https://www.kaggle.com/damoonshahhosseini/aggregated-neural-networks - I have a copy of this **from tensorflow.keras.utils import plot_model**](https://www.kaggle.com/damoonshahhosseini/aggregated-neural-networks)<br>
+[https://www.kaggle.com/damoonshahhosseini/aggregated-neural-networks -**from tensorflow.keras.utils import plot_model** I forked](https://www.kaggle.com/damoonshahhosseini/aggregated-neural-networks)<br>
 [Alexnader D'yakonov's kernel moa-nn-04](https://www.kaggle.com/zurman/moa-nn-04)<br>
 []()<br>
 []()<br>
