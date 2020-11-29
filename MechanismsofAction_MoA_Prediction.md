@@ -2,7 +2,7 @@
 [2020.09 Matthew Masters: Insight into the MoA Pred Comp](https://www.kaggle.com/c/lish-moa/discussion/184005)<br>
 
 [2020.09 Shahules discusses: Best Single model - 1st month](https://www.kaggle.com/c/lish-moa/discussion/188624)<br>
-[]()<br>
+[2020.10 mavillan discusses: Best Single model - 2nd month](https://www.kaggle.com/c/lish-moa/discussion/193907)<br>
 []()<br>
 []()<br>
 []()<br>
