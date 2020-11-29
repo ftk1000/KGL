@@ -13,7 +13,7 @@ Kaggle has tools for monitoring GPU usage in the settings menu of the notebook e
 # DL Tools
 [keras-one-cycle-lr](https://pypi.org/project/keras-one-cycle-lr/)<br>
 [Practical Deep Learning for Coders course.fast.ai](https://course.fast.ai/)<br>
-[]()<br>
+[Dive into DL: http://d2l.ai/](http://d2l.ai/)<br>
 []()<br>
 []()<br>
 []()<br>
