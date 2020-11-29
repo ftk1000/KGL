@@ -25,3 +25,10 @@ Adopted at 140 universities from 35 countries)](http://d2l.ai/)<br>
 # NN from scratch
 [Neural Network from Scratch/Numpy](https://www.kaggle.com/bjoernjostein/neural-network-from-scratch)<br>
 [Molecular Motion of Flexible Molecules](https://www.kaggle.com/hiroshisakiyama/molecular-motion-of-flexible-molecules)<br>
+
+# Py OOP
+[2016: Corey Schafer: Python OOP Tutorial 1: Classes and Instances](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
