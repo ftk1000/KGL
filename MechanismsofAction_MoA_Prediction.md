@@ -1,7 +1,7 @@
 [2020.11 Андрей Лукьяненко : "Обзор текущих подходов в соревновании "Mechanisms of Action (MoA) Prediction" на Kaggle" ](https://youtu.be/D7i67UT3O3o)<br>
-[Matthew Masters: Insight into the MoA Pred Comp](https://www.kaggle.com/c/lish-moa/discussion/184005)<br>
+[2020.09 Matthew Masters: Insight into the MoA Pred Comp](https://www.kaggle.com/c/lish-moa/discussion/184005)<br>
 
-[]()<br>
+[2020.09 Shahules discusses: Best Single model - 1st month](https://www.kaggle.com/c/lish-moa/discussion/188624)<br>
 []()<br>
 []()<br>
 []()<br>
