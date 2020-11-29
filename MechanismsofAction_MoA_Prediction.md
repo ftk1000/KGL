@@ -1,5 +1,9 @@
 [2020.11 Андрей Лукьяненко : "Обзор текущих подходов в соревновании "Mechanisms of Action (MoA) Prediction" на Kaggle" ](https://youtu.be/D7i67UT3O3o)<br>
+[Matthew Masters: Insight into the MoA Pred Comp](https://www.kaggle.com/c/lish-moa/discussion/184005)<br>
+
 []()<br>
+
+
 
 [make-final-submission-the-efficient-way   Python notebook using data from multiple data sources · 10,562 views  ](https://www.kaggle.com/underwearfitting/make-final-submission-the-efficient-way/comments)<br>
 
