@@ -6,7 +6,18 @@ KGL comps
 [Actively monitor and manage your GPU usage](https://www.kaggle.com/zurman/account?isEditing=False)<br>
 
 Kaggle has tools for monitoring GPU usage in the settings menu of the notebook editor, at the top of the page at kaggle.com/notebooks, , and in the session management window.
+[]()<br>
+[]()<br>
 
 
 # DL Tools
 [keras-one-cycle-lr](https://pypi.org/project/keras-one-cycle-lr/)<br>
+[Practical Deep Learning for Coders course.fast.ai](https://course.fast.ai/)<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+
