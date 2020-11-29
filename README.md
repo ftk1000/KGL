@@ -22,3 +22,6 @@ Adopted at 140 universities from 35 countries)](http://d2l.ai/)<br>
 []()<br>
 []()<br>
 
+# NN from scratch
+[Neural Network from Scratch/Numpy](https://www.kaggle.com/bjoernjostein/neural-network-from-scratch)<br>
+[Molecular Motion of Flexible Molecules](https://www.kaggle.com/hiroshisakiyama/molecular-motion-of-flexible-molecules)<br>
