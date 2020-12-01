@@ -4,7 +4,7 @@
 
 [Winning Solutions of Previous Market Prediction Kaggle Challenges](https://www.kaggle.com/c/jane-street-market-prediction/discussion/199189)<br>
 [Papers on Quantitative Trading Models](https://www.kaggle.com/c/jane-street-market-prediction/discussion/199098)<br>
-[]()<br>
+[Machine Learning Financial Laboratory  on GitLab](https://github.com/hudson-and-thames/mlfinlab)<br>
 []()<br>
 []()<br>
 []()<br>
