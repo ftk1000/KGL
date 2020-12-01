@@ -20,6 +20,7 @@ Kaggle has tools for monitoring GPU usage in the settings menu of the notebook e
 [Curated-Deep-Learning-Resources on github: papers](https://github.com/theepiccode/Curated-Deep-Learning-Resources)<br>
 
 [Kalman-and-Bayesian-Filters-in-Python](https://github.com/haibolii/Kalman-and-Bayesian-Filters-in-Python)<br>
+   - https://github.com/ethanluoyc/Kalman-and-Bayesian-Filters-in-Python<br>
 
 []()<br>
 []()<br>
