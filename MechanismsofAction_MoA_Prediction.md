@@ -28,7 +28,12 @@ MoA Mysterious Patterns for LocallyLinearEmbedding](https://www.kaggle.com/alexa
 
 [https://www.kaggle.com/alexandervc/moa-correlation-analysis-use-igraph](https://www.kaggle.com/alexandervc/moa-correlation-analysis-use-igraph)<br>
 []()<br>
-[]()<br>
+[Grandmaster Ahmet Erdem https://www.kaggle.com/aerdem4/moa-xgb-svm-solution](https://www.kaggle.com/zurman/moa-xgb-svm-solution/edit)<br>
+
+    Congrats everyone who won medals and who learned new things. I have noticed this competition didn't have any strong non-NN baseline. I am sharing a short and clean notebook which has 0.01876 public, 0.01659 private score. It is not very competitive but it is diverse enough to improve ensembles. Since it runs in 23 minutes including training, I expect an inference only run to be superfast. They both run on GPU. You can easily add this to your ensembles. I did some tricks to mimic label smoothing in XGB and SVM. They improved their scores significantly.    https://www.kaggle.com/aerdem4/moa-xgb-svm-solution
+
+    
+
 []()<br>
 # NN for MoA<br>
 ==> from tensorflow.keras.utils import plot_model<br>
