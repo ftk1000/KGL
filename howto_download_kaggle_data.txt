@@ -1,0 +1,35 @@
+0. > pip install kaggle
+
+1. login to your Kaggle account
+   click on the icon in the upper right corner -> My Account
+   Scroll down to API section
+   Click "Create New API Token"
+   "kaggle.json" file is created and saved locally
+
+2. Create ".kaggle" dir
+   C:\Users\TalgatHafiz>mkdir .kaggle
+   and move "kaggle.json" into that directory
+
+3. see all active competitions by running the following command
+   C:\Users\TalgatHafiz\.kaggle>kaggle competitions list
+   
+4. Select one of the competitions that you signed up for, eg
+   https://www.kaggle.com/c/contradictory-my-dear-watson/data#
+   Scroll down. Right before "Data Explorer" section there should be API line:
+   "kaggle competitions download -c contradictory-my-dear-watson"
+   copy it
+
+5. run this command
+   !kaggle competitions download -c contradictory-my-dear-watson
+
+6. data file is downloaded into your the same directory where your notebook is:
+   C:\Users\TalgatHafiz\conda\contradictory-my-dear-watson.zip
+   so you can run
+   !unzip contradictory-my-dear-watson.zip
+   
+   
+READ
+
+https://medium.com/@jeff.daniel77/accessing-the-kaggle-com-api-with-jupyter-notebook-on-windows-d6f330bc6953
+
+   
