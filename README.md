@@ -18,7 +18,7 @@ Kaggle has tools for monitoring GPU usage in the settings menu of the notebook e
 
 [VERY Cool embedding demo](http://projector.tensorflow.org/)<br>
 
-
+[]()<br>
 
 
 # DL Tools
@@ -46,3 +46,8 @@ Kaggle has tools for monitoring GPU usage in the settings menu of the notebook e
 []()<br>
 []()<br>
 []()<br>
+
+# Kagle Data
+
+[How to download Kaggle Data](https://github.com/ftk1000/KGL/blob/master/howto_download_kaggle_data.txt)<br>
+[How to download Kaggle Data EXAMPLE](https://github.com/ftk1000/data_files/blob/master/fetch_kaggle_data.ipynb)<br>
