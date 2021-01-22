@@ -18,6 +18,8 @@ Kaggle has tools for monitoring GPU usage in the settings menu of the notebook e
 
 [VERY Cool embedding demo](http://projector.tensorflow.org/)<br>
 
+[IPython Cookbook, Second Edition (2018) ---  github.com/ipython-books/cookbook-2nd](https://github.com/ipython-books/cookbook-2nd)<br>
+[]()<br>
 []()<br>
 
 
